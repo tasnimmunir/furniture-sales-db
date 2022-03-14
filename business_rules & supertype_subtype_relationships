@@ -1,3 +1,4 @@
+BUSINESS RULES
 •Each Customer sometimes places one or more Orders 
  Each Order is always placed by one Customer 
 •Each Order always contains one or more Furniture 
@@ -10,3 +11,9 @@
  Each order is always taken by one sales representative 
 •Each shipment is always a part of one order 
  Each order sometimes composed of one or more shipments
+
+SUPERTYPE-SUBTYPE RELATIONSHIPS
+• Sales Representative is a kind of Employee.  
+  An Employee can be sales representatives. 
+• Driver is a kind of Employee.  
+  An Employee can be a Driver. 
