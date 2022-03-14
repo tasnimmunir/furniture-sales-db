@@ -1,0 +1,12 @@
+•	Each Customer sometimes places one or more Orders 
+  Each Order is always placed by one Customer 
+•	Each Order always contains one or more Furniture 
+  Each Furniture sometimes appear in one or more Orders 
+•	Each Truck is always driven by one Driver 
+  Each Driver always drives one Truck 
+•	Each Truck always contains one or more Shipments 
+	Each Shipment is always contained by one Truck 
+•	Each Sales representative always takes one or more orders 
+	Each order is always taken by one sales representative 
+•	Each shipment is always a part of one order 
+	Each order sometimes composed of one or more shipments
