@@ -6,7 +6,7 @@
 |----|-----|-------|
 |1|[ENTITES AND DEFINITIONS](https://github.com/tasnimmunir/furniture-sales-db/blob/main/entities_and_definitions)
 |2|[RELATIONSHIP MATRIX](https://github.com/tasnimmunir/furniture-sales-db/blob/main/relationship_matrix.png)
-|3|[BUSINESS RULES](https://github.com/tasnimmunir/furniture-sales-db/blob/main/business_rules)
+|3|[BUSINESS RULES](https://github.com/tasnimmunir/furniture-sales-db/blob/main/business_rules%20%26%20supertype_subtype_relationships)
 |4|[SUPERTYPE-SUBTYPE RELATIONSHIPS](https://github.com/tasnimmunir/furniture-sales-db/blob/main/business_rules%20&%20supertype_subtype_relationships)
 |5|[E-R DIAGRAM - 1](https://github.com/tasnimmunir/furniture-sales-db/blob/main/ER_diagram1.jpg)
 |6|[E-R DIAGRAM - 2](https://github.com/tasnimmunir/furniture-sales-db/blob/main/ER_diagram2.jpg)
