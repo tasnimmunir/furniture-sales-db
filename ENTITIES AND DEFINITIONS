@@ -1,0 +1,8 @@
+Customer: Customer has separate and distinct existence of things, such as unique account number, and billing address.
+Order: Order is said to be an entity as all the data is collected for each order that is placed.
+Furniture: Furniture is a single unique object having furniture Type, Quantity, and Price as attribute. 
+Truck: Trucks is an entity because it stores the information about the truck’s attributes such as Vehicle Number, License Plate Number etc. 
+Driver: Driver is an entity because it stores information about driver’s license plate number, license expiration date and all the employees who are drivers.
+Employee: Employee keeps the data related to all type of Employee, their SSN, Name, Phone number and address. 
+Sale Representative: Sales representative is an entity, who takes orders, also are a type of employee and earn commission.
+Shipment: Shipment is an entity, composed of one or more orders and vice versa, having a Delivery address, Truck Id, etc.
