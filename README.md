@@ -4,7 +4,7 @@
 ## Table of Content
 ||||
 |----|-----|-------|
-|1|[ENTITES AND DEFINITIONS](https://github.com/tasnimmunir/furniture-sales-db/blob/main/ENTITIES%20AND%20DEFINITIONS)
+|1|[ENTITES AND DEFINITIONS](https://github.com/tasnimmunir/furniture-sales-db/blob/main/entities_and_definitions)
 |2|[RELATIONSHIP MATRIX](https://github.com/tasnimmunir/furniture-sales-db/blob/main/relationship_matrix.png)
 |3|[BUSINESS RULES](https://github.com/tasnimmunir/furniture-sales-db/blob/main/business_rules)
 |4|[SUPERTYPE-SUBTYPE RELATIONSHIPS](https://github.com/tasnimmunir/furniture-sales-db/blob/main/business_rules%20&%20supertype_subtype_relationships)
